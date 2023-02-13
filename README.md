@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Many Projects**
 
-- 🌱 I’m currently learning **Ract,Flutter**
+- 🌱 I’m currently learning **MongoDB, Express.js, Ract.js, Node.js, Flutter**
 
 - 💬 Ask me about **PHP, Laravel**
 
